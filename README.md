@@ -6,7 +6,7 @@ Confidential information is not displayed.Images are custom or a reference name 
 
 Please download the executable in https://github.com/alpaddesai/ManagingTechnologicalInnovation/releases
 
-## disruptive innovation
+## Disruptive innovation
 ![image](MTIE.png)
 
 ## Examples of innovative projects (professional experience)
