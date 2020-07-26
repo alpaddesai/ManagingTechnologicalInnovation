@@ -9,6 +9,6 @@ Please download the executable in https://github.com/alpaddesai/ManagingTechnolo
 ## disruptive innovation
 ![image](MTIE.png)
 
-## Examples of innovative proejcts (professional experience)
+## Examples of innovative projects (professional experience)
 ![image](ExampleProjects.png)
 
