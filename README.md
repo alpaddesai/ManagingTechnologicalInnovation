@@ -12,3 +12,4 @@ Please download the executable in https://github.com/alpaddesai/ManagingTechnolo
 ## Examples of innovative projects (professional experience)
 ![image](ExampleProjects.png)
 
+![image](USCopyrightCertificateofRegistration.png)
