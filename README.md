@@ -16,7 +16,4 @@ Please download the executable in https://github.com/alpaddesai/ManagingTechnolo
 ![image](image1.jpg)
 ![image](image2.jpg)
 
-
-![image](USCopyrightCertificateofRegistration.png)
-
 Further knowledge reference: https://github.com/alpaddesai/ManagementConsulting
