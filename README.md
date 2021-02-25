@@ -15,5 +15,6 @@ Please download the executable in https://github.com/alpaddesai/ManagingTechnolo
 ## Interest
 ![image](image1.jpg)
 ![image](image2.jpg)
+![image](image3.png)
 
 Further knowledge reference: https://github.com/alpaddesai/ManagementConsulting
