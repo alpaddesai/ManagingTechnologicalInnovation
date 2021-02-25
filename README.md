@@ -7,6 +7,7 @@ Confidential information is not displayed.Images are custom or a reference name 
 Please download the executable in https://github.com/alpaddesai/ManagingTechnologicalInnovation/releases
 
 ## Disruptive innovation
+### Primary goal..
 ![image](MTIE.png)
 
 ## Examples of innovative projects (professional experience)
