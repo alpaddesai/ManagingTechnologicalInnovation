@@ -15,9 +15,4 @@ Please download the executable in https://github.com/alpaddesai/ManagingTechnolo
 ## Ethics and Integrity
 ![image](EthicsandExcellence.png)
 
-## Interest
-![image](image1.jpg)
-![image](image2.jpg)
-![image](image3.png)
-
 Further knowledge reference: https://github.com/alpaddesai/EngineeringProjectManagement
