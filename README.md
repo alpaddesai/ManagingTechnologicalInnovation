@@ -13,7 +13,7 @@ Please download the executable in https://github.com/alpaddesai/ManagingTechnolo
 ![image](ExampleProjects.png)
 
 # Exam
-![image]()
+![image](CFAExam.jpg)
 
 ## Ethics and Integrity
 ![image](EthicsandExcellence.png)
