@@ -17,4 +17,4 @@ Please download the executable in https://github.com/alpaddesai/ManagingTechnolo
 
 ![image](USCopyrightCertificate.png)
 
-Further knowledge reference: https://github.com/alpaddesai/EngineeringProjectManagement
+Further knowledge reference: https://github.com/alpaddesai/PowerandInfluentialSkills
