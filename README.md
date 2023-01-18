@@ -9,9 +9,6 @@ Please download the executable in https://github.com/alpaddesai/ManagingTechnolo
 ## Disruptive innovation
 ![image](MTIE.png)
 
-## Examples of innovative projects (professional experience)
-![image](ExampleProjects.png)
-
 ## Ethics and Integrity
 ![image](EthicsandExcellence.png)
 
