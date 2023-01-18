@@ -6,6 +6,7 @@ Confidential information is not displayed.Images are custom or a reference name 
 
 ## Disruptive innovation
 ![image](MTIE.png)
+![image](ComplexDesignProjects.jpg)
 
 ## Ethics and Integrity
 ![image](EthicsandExcellence.png)
